@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.6b867e76.css",
-    "main.js": "/static/js/main.a982fcd5.js",
+    "main.js": "/static/js/main.1a887a65.js",
     "static/media/Banner_v2-compressed.png": "/static/media/Banner_v2-compressed.d43833b168950035d77b.png",
     "static/media/sad_ben-compressed.png": "/static/media/sad_ben-compressed.428dba6e62b6ad6b2aba.png",
     "static/media/bubuchichis_logo_wo_name.PNG": "/static/media/bubuchichis_logo_wo_name.cf30a37feb7f2f1f8b2d.PNG",
     "static/media/lowres_loading.gif": "/static/media/lowres_loading.9a145c0999dc5407dea7.gif",
     "index.html": "/index.html",
     "main.6b867e76.css.map": "/static/css/main.6b867e76.css.map",
-    "main.a982fcd5.js.map": "/static/js/main.a982fcd5.js.map"
+    "main.1a887a65.js.map": "/static/js/main.1a887a65.js.map"
   },
   "entrypoints": [
     "static/css/main.6b867e76.css",
-    "static/js/main.a982fcd5.js"
+    "static/js/main.1a887a65.js"
   ]
 }
