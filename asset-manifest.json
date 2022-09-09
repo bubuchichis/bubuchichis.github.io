@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.70f4fe54.css",
-    "main.js": "/static/js/main.96cf9c4d.js",
+    "main.js": "/static/js/main.1a979fe3.js",
     "static/media/Logo.PNG": "/static/media/Logo.35dec3824ce316b57e2c.PNG",
     "static/media/Banner_v2-compressed.png": "/static/media/Banner_v2-compressed.d43833b168950035d77b.png",
     "static/media/sad_ben-compressed.png": "/static/media/sad_ben-compressed.428dba6e62b6ad6b2aba.png",
     "static/media/lowres_loading.gif": "/static/media/lowres_loading.9a145c0999dc5407dea7.gif",
     "index.html": "/index.html",
     "main.70f4fe54.css.map": "/static/css/main.70f4fe54.css.map",
-    "main.96cf9c4d.js.map": "/static/js/main.96cf9c4d.js.map"
+    "main.1a979fe3.js.map": "/static/js/main.1a979fe3.js.map"
   },
   "entrypoints": [
     "static/css/main.70f4fe54.css",
-    "static/js/main.96cf9c4d.js"
+    "static/js/main.1a979fe3.js"
   ]
 }
